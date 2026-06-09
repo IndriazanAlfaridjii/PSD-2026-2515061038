@@ -3,7 +3,9 @@ A. Judul Program: Sistem Data Turnamen Esports
 B. Deskripsi Singkat: Program ini merupakan implementasi **Hash Map Open Addressing dengan metode Linear Probing** menggunakan bahasa Python untuk mengelola data tim pada sebuah turnamen esports. Program memungkinkan pengguna untuk menambahkan, mencari, menghapus, dan menampilkan data tim berdasarkan ID Tim sebagai key. Data disimpan dalam hash table sehingga proses penyimpanan dan pencarian dapat dilakukan dengan lebih cepat dan efisien. Jika terjadi collision (dua key menghasilkan indeks yang sama), program akan menggunakan metode Linear Probing untuk mencari slot kosong berikutnya. Tujuan dari program ini adalah untuk memahami penerapan struktur data hash map, cara menangani collision, serta mengelola data tim turnamen esports secara sederhana dan efisien.
 
 C. Source Code:
-<img width="728" height="971" alt="Screenshot 2026-06-09 204740" src="https://github.com/user-attachments/assets/6ef31bf3-76a3-4665-845c-917ee795511b" />
+
+
+<img width="728" height="971" alt="Screenshot 2026-06-09 204740" src="https://github.com/user-attachments/assets/2740006f-742e-49f7-819a-58f9b8ee6a84" />
 
 
 <img width="738" height="912" alt="Screenshot 2026-06-09 204811" src="https://github.com/user-attachments/assets/15203f6f-a2c3-4e12-a23d-144c63161e46" />
